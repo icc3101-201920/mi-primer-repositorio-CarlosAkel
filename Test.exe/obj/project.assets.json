@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\Desktop\\Carpeta del Anime\\Test.exe\\Test.exe\\Test.exe.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\Desktop\\Carpeta del Anime\\Test.exe\\mi-primer-repositorio-CarlosAkel\\Test.exe\\Test.exe.csproj",
       "projectName": "Test.exe",
-      "projectPath": "C:\\Users\\carlo\\Desktop\\Carpeta del Anime\\Test.exe\\Test.exe\\Test.exe.csproj",
+      "projectPath": "C:\\Users\\carlo\\Desktop\\Carpeta del Anime\\Test.exe\\mi-primer-repositorio-CarlosAkel\\Test.exe\\Test.exe.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\Desktop\\Carpeta del Anime\\Test.exe\\Test.exe\\obj\\",
+      "outputPath": "C:\\Users\\carlo\\Desktop\\Carpeta del Anime\\Test.exe\\mi-primer-repositorio-CarlosAkel\\Test.exe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

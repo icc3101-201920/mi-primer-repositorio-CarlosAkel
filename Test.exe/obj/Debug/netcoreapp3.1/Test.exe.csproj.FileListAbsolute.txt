@@ -1,0 +1,11 @@
+C:\Users\carlo\Desktop\Carpeta del Anime\Test.exe\Test.exe\bin\Debug\netcoreapp3.1\Test.exe.exe
+C:\Users\carlo\Desktop\Carpeta del Anime\Test.exe\Test.exe\bin\Debug\netcoreapp3.1\Test.exe.deps.json
+C:\Users\carlo\Desktop\Carpeta del Anime\Test.exe\Test.exe\bin\Debug\netcoreapp3.1\Test.exe.runtimeconfig.json
+C:\Users\carlo\Desktop\Carpeta del Anime\Test.exe\Test.exe\bin\Debug\netcoreapp3.1\Test.exe.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\Carpeta del Anime\Test.exe\Test.exe\bin\Debug\netcoreapp3.1\Test.exe.dll
+C:\Users\carlo\Desktop\Carpeta del Anime\Test.exe\Test.exe\bin\Debug\netcoreapp3.1\Test.exe.pdb
+C:\Users\carlo\Desktop\Carpeta del Anime\Test.exe\Test.exe\obj\Debug\netcoreapp3.1\Test.exe.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Carpeta del Anime\Test.exe\Test.exe\obj\Debug\netcoreapp3.1\Test.exe.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Carpeta del Anime\Test.exe\Test.exe\obj\Debug\netcoreapp3.1\Test.exe.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Carpeta del Anime\Test.exe\Test.exe\obj\Debug\netcoreapp3.1\Test.exe.dll
+C:\Users\carlo\Desktop\Carpeta del Anime\Test.exe\Test.exe\obj\Debug\netcoreapp3.1\Test.exe.pdb
